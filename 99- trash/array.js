@@ -51,6 +51,7 @@ console.log("slice", arr);
 
 //! 9. Sort and Reverse
 //    a) sort() → arrange elements
+arr.sort();
 //    b) reverse() → reverse order
 
 //! 10. Check Type
